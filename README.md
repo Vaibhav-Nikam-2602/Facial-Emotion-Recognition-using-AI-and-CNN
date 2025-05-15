@@ -37,21 +37,7 @@ Facial expressions are a vital part of human communication. This AI-powered syst
 
 ---
 
-## 📂 Folder Structure
 
-```
-facial-emotion-recognition-cnn/
-├── app.py                 # Main app (Streamlit or Flask)
-├── fer_model.py           # CNN architecture
-├── model/model.h5         # Trained model file
-├── dataset/fer2013.csv    # Training dataset
-├── templates/index.html   # HTML UI (Flask)
-├── static/                # CSS/JS/Images
-├── requirements.txt       # Python dependencies
-├── README.md              # Project info
-├── .gitignore             # Ignored files
-└── LICENSE                # License
-```
 
 ---
 
@@ -64,24 +50,6 @@ git clone https://github.com/Vaibhav-Nikam-2602/facial-emotion-recognition-cnn.g
 cd facial-emotion-recognition-cnn
 ```
 
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the App
-
-For Streamlit:
-```bash
-streamlit run app.py
-```
-
-For Flask:
-```bash
-python app.py
-```
-
 ---
 
 ## 📊 Results
@@ -90,16 +58,6 @@ python app.py
 - ✅ Real-time emotion detection via webcam
 - ✅ Live overlay of detected emotion on video feed
 
----
-
-## 🔮 Future Enhancements
-
-- Use advanced AI models like **ResNet**, **MobileNet**
-- Add **multi-modal input** (voice + face)
-- Convert to Android/iOS using **TFLite**
-- Apply in AI-based education, smart healthcare, surveillance
-
----
 
 ## 📚 Dataset
 
