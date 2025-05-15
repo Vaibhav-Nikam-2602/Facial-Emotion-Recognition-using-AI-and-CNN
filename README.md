@@ -50,3 +50,13 @@ Facial expressions are a vital part of human communication. This AI-powered syst
 git clone https://github.com/Vaibhav-Nikam-2602/facial-emotion-recognition-cnn.git
 cd facial-emotion-recognition-cnn
 
+surveillance
+
+📚 Dataset
+FER2013 - Kaggle
+
+🙋‍♂️ Author
+Vaibhav Nikam
+📧 vaibhavnikam312@gmail.com
+
+
