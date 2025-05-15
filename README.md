@@ -46,8 +46,8 @@ Facial expressions are a vital part of human communication. This AI-powered syst
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Vaibhav-Nikam-2602/facial-emotion-recognition-cnn.git
-cd facial-emotion-recognition-cnn
+git clone https://github.com/Vaibhav-Nikam-2602/Facial-Emotion-Recognition-using-AI-and-CNN.git
+cd Facial-Emotion-Recognition-using-AI-and-CNN
 ```
 
 ---
